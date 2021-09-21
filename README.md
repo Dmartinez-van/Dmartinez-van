@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dmartinez-van
 - 👀 I’m interested in science, programming, game development, and more
-- 🌱 I’m currently learning web development 
+- 🌱 I’m currently working in software development @ beatdapp (so there will be little to no activity on this account for the time being). 
 - 💞️ I’m looking to collaborate on anything really. Hope I can help.
 - 📫 Reach me here on GitHub
 
